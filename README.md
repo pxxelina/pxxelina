@@ -29,6 +29,7 @@
 
 </p>
 ---
+
 ## 🌟 My Skills & Hobbies
 
 - *Jewelry Design*: Handmade, aesthetic pieces
