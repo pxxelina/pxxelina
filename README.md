@@ -62,9 +62,9 @@
 Hi! I’m *Lina Yassire* — a first-year dev student with a love for clean code, soft design, and a spark of magic.  
 I build tools that blend tech and feeling, and I’m especially curious about the future of *AI, **UX, and **ethical coding*.
 
-- I write code in *Python, **JavaScript, and **React*
-- Currently exploring *AI, **prompt engineering, and **neural networks*
-- I believe the future is both *intelligent* and *aesthetic*
+- I write code in Python, JavaScript, and React
+- Currently exploring AI, prompt engineering, and neural networks
+- I believe the future is both intelligent and aesthetic
 
 ---
 
@@ -114,7 +114,8 @@ Currently exploring: AI · Neural Networks · Prompt Engineering
 
 ## ♡ Let’s Be Friends
 
-- Instagram: [@lina_yassire](https://instagram.com/lina_yassire) → Slide into my DMs if you love cute code, cats, and good vibes.
+[![Instagram](https://img.shields.io/badge/Instagram-@lina__yassire-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lina_yassire)
+[![Email Me](https://img.shields.io/badge/Email-linayassire00@gmail.com-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linayassire00@gmail.com)
 
 ---
 
@@ -127,6 +128,8 @@ Feel free to open an issue or leave a comment if you:
 - wanna say hi!
 
 ---
+
+˗ˏˋ 💖 Built with love, glitter, and curiosity 💖 ˎˊ˗
 
 
 
