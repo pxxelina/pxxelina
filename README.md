@@ -28,6 +28,7 @@
 ★ <strong>Favorite fruits:</strong> Pineapple · Strawberries · Peach · Nectarine  🍓  
 
 </p>
+---
 ## 🌟 My Skills & Hobbies
 
 - *Jewelry Design*: Handmade, aesthetic pieces
