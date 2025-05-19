@@ -28,6 +28,12 @@
 ★ <strong>Favorite fruits:</strong> Pineapple · Strawberries · Peach · Nectarine  🍓  
 
 </p>
+## 🌟 My Skills & Hobbies
+
+- *Jewelry Design*: Handmade, aesthetic pieces
+- *Music*: Playing piano, singing, composing soft melodies
+- *Chess*: Calm strategy lover
+- *reading*:dark romance
 ---
 
 ## 🌸✨ My Magical Toolbox ✨🌸
