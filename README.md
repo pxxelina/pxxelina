@@ -111,15 +111,14 @@ Currently exploring: AI · Neural Networks · Prompt Engineering
 
 
 ---
+## 📈 GitHub Stats
 
+![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxxelina&show_icons=true&theme=radical)
 
 ## ♡ Let’s Be Friends
 
 [![Instagram](https://img.shields.io/badge/instagram-@lina_yassire-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lina_yassire)
-<a href="mailto:linayassire00@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-linayassire00@gmail.com-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
-
+[![Email](https://img.shields.io/badge/Email-linayassire00@gmail.com-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linayassire00@gmail.com)
 ---
 
 ## 💬 Let’s Chat
