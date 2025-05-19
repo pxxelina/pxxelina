@@ -15,22 +15,19 @@
 
 ## 🌷 About Me
 
-<p align="center">
+  <p align="center">
   <img src="https://img.shields.io/badge/𖦹 About Me -ffcfe6?style=for-the-badge&logoColor=ff69b4" />
 </p>
 
 <p align="center">
-  <strong>Personality:</strong> Ambivert · Dreamy · Curious  
-  <br />
-  <strong>Vibe:</strong> Whimsical · Kind-hearted · Sparkly · Focused  
-  <br /><br />
-  I believe in quiet magic, soft growth, and pink power.  
-  <br />
-  Coding is my safe space — just me, my laptop, and a playlist full of soft melodies.  
-  <br />
-  I adore cats, daydreaming, and the little details that make life glow.  
+
+<strong>Personality:</strong> Ambivert · Dreamy · Curious   ☁  
+<strong>Vibe:</strong> Whimsical · Kind-hearted · Sparkly · Focused  ✨  
+<strong>Likes:</strong> Cats · Soft music · Pretty details · Aesthetic calm  🕊  
+<strong>Favorite colors:</strong> Black · Blue · Baby Pink  🩰  
+<strong>Favorite fruits:</strong> Pineapple · Strawberries · Peach · Nectarine  🍓  
+
 </p>
-  
 ---
 
 ## ✨ Dev Toolbox
