@@ -33,21 +33,17 @@
 ## 🌸✨ My Magical Toolbox ✨🌸
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-ffc0cb?style=for-the-badge&logo=python&logoColor=white&labelColor=ffb6c1" />
-  <img src="https://img.shields.io/badge/-HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=white&labelColor=ffb6c1" />
-  <img src="https://img.shields.io/badge/-CSS3-ffc0cb?style=for-the-badge&logo=css3&logoColor=white&labelColor=ffb6c1" />
-  <img src="https://img.shields.io/badge/-JavaScript-ffc0cb?style=for-the-badge&logo=javascript&logoColor=white&labelColor=ffb6c1" />
-  <img src="https://img.shields.io/badge/-Java-ffc0cb?style=for-the-badge&logo=java&logoColor=white&labelColor=ffb6c1" />
-  <img src="https://img.shields.io/badge/-VS%20Code-ffc0cb?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ffb6c1" />
-  <img src="https://img.shields.io/badge/-GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=white&labelColor=ffb6c1" />
-  <img src="https://img.shields.io/badge/-Linux-ffc0cb?style=for-the-badge&logo=linux&logoColor=white&labelColor=ffb6c1" />
-  <img src="https://img.shields.io/badge/-AI-ffc0cb?style=for-the-badge&logo=openai&logoColor=white&labelColor=ffb6c1" />
+  <img src="https://img.shields.io/badge/Python-ffcfe6?style=for-the-badge&logo=python&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/HTML5-ffe6f2?style=for-the-badge&logo=html5&logoColor=ff1493" />
+  <img src="https://img.shields.io/badge/CSS3-fddde6?style=for-the-badge&logo=css3&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/JavaScript-fff0f5?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/VS_Code-ffe6fa?style=for-the-badge&logo=visual-studio-code&logoColor=6e40c9" />
+  <img src="https://img.shields.io/badge/GitHub-fde7f7?style=for-the-badge&logo=github&logoColor=8b008b" />
+  <img src="https://img.shields.io/badge/Linux-fff5fb?style=for-the-badge&logo=linux&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/OpenAI-ffe0f0?style=for-the-badge&logo=openai&logoColor=ff1493" />
 </p>
 
 ---
-
-## ♡ Projects I’m Planning
-
 | Project Name     | Vibe                        | Description                                          | Tech |
 |------------------|-----------------------------|------------------------------------------------------|------|
 | *CatTrack*     | Sweet & Careful 🐾           | A cute cat mood & health tracker                     | Python, Tkinter |
