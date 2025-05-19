@@ -1,76 +1,126 @@
 <p align="center">
   <img src="WhatsApp Image 2025-05-19 at 02.26.00_f2c68f12.jpg" width="650" >
 
-<h1 align="center">˗ˏˋ  Hey there, I'm <span style="color:#F9A8D4;">Lina Yassire</span>  ˎˊ˗</h1>
+<h1 align="center">♡ Welcome to Lina's Soft Universe ♡</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/nd0OUZt0L0I2j4k5wE/giphy.gif" width="200" alt="Hello Kitty waving" />
+  <img src="https://media.tenor.com/4JWqR_sIw_sAAAAi/hello-kitty-flowers.gif" width="200" alt="Hello Kitty waving with flowers" />
 </p>
 
 <p align="center">
-  🌸 A soft-hearted dev girl who codes with love, dreams big, and drinks tea while building magical things.  
-  <br />
-  💻✨ Cat lover | Code fairy | Future full-stack queen  
-  <br />
-  <strong>♡ Stay sweet, stay curious ♡</strong>
+  🌸✨ Girly Dev • Cat Whisperer • Magic Coder • Dream Chaser ✨🌸  
+  <br>
+  <strong>“You're magical, and so am I.”</strong>
 </p>
 
 ---
 
 ## 🌷 About Me
 
-```python
-class LinaYassire:
-    def __init__(self):
-        self.pronouns = "she/her"  # 🌸✨
-        self.languages = ["Python", "C", "HTML/CSS", "JavaScript"]
-        self.loves = ["Cats 🐱", "Adventures ✈️", "AI 🤖", "Soft Aesthetics 🌸"]
-        self.learning = ["React ⚛️", "Machine Learning 🧠", "Algorithms 🔄"]
-        self.vibe = "Gentle ☁️. Curious ✨. Magical 🧚‍♀️."
-```
+- ✨ *Pronouns*: she/her  
+- 💻 *Languages I Use*: Python, C, HTML/CSS, JavaScript  
+- 🐱 *I Love*: Cats, soft music, Hello Kitty, coding cute things  
+- ✈ *Dreams*: Travel the world, build an aesthetic app, shine in tech  
+- 📚 *Currently Learning*: React ⚛, AI & Machine Learning 🧠, Algorithms  
+- ☁ *Vibe*: Whimsical, kind-hearted, focused, sparkly  
+- ✨ *Personality*: Ambivert, dreamy, and always curious  
+- ❤‍🔥 *Mood Today*: Creative and caffeinated
 
 ---
 
-## 💖 Tech Stack (So far...)
+## ✨ Dev Toolbox
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFE5F1?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/HTML5-FCE4EC?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-F3E5F5?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-FFF8E1?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/VS_Code-EDE7F6?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ffcfe6?style=for-the-badge&logo=python&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/HTML5-ffe6f2?style=for-the-badge&logo=html5&logoColor=ff1493" />
+  <img src="https://img.shields.io/badge/CSS3-fddde6?style=for-the-badge&logo=css3&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/JavaScript-fff0f5?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/VS_Code-ffe6fa?style=for-the-badge&logo=visual-studio-code&logoColor=6e40c9" />
 </p>
 
 ---
 
-## ✨ Upcoming Projects
+## ♡ Projects I’m Planning
 
-| 💡 Project | 🍭 Description | 🧁 Tech |
-|-----------|----------------|---------|
-| **CatTrack** | A sweet little app to track your cat's mood, health, and meals. Meow~ | Python + Tkinter |
-| **NoteNest** | A pastel notebook app for cute and organized studying. | HTML, CSS, JS |
-| **AI Whisper** | A cozy chatbot that gives gentle answers with sparkles. | Python + OpenAI API |
+| Project Name     | Vibe                        | Description                                          | Tech |
+|------------------|-----------------------------|------------------------------------------------------|------|
+| *CatTrack*     | Sweet & Careful 🐾           | A cute cat mood & health tracker                     | Python, Tkinter |
+| *NoteNest*     | Soft Study 🧸                | A pastel-colored notebook for cute notes             | HTML, CSS, JS |
+| *AI Whisper*   | Magical Support 🌙           | A soft chatbot that gives cozy advice & compliments  | Python, OpenAI |
+| *Mood Garden*  | Aesthetic Garden App 🌸      | Tracks moods with flowers & sparkle animations       | React, Firebase |
 
-> ✨ *Not built yet — but I’m excited to create them soon!*
+> 🌈 Soon to bloom. Stay tuned, cutie!  
 
 ---
 
-## ☁️ Aesthetic Mood
+## ☁ Aesthetic Moodboard
 
-> 🌸 Gentle  
-> 🪄 Whimsical  
-> 💡 Motivated  
-> 💕 Always learning
+> "You’re not just learning code...  
+> You’re creating a magical life."
+
+- 🫧 Soft  
+- 🧁 Sweet  
+- 🕊 Peaceful  
+- 🐇 Gentle  
+- ✨ Powerful  
+- 🧚‍♀ A little chaotic, in a fairy way  
+
+---
+
+## ✨ Magical Daily Checklist
+
+- [x] Woke up with a dream  
+- [x] Took care of myself  
+- [x] Wrote a line of code  
+- [x] Stayed soft  
+- [x] Believed in my own magic  
+- [ ] Took over the world (maybe tomorrow)
+
+---
+
+## ☕ Currently...
+
+- Reading: Cute articles about UX design  
+- Watching: Something soft and pink on Netflix  
+- Listening: Lofi beats with cat purrs  
+- Eating: Chocolate and strawberries  
+- Feeling: Full of sparkle
+
+---
+
+## ❥ Favorite Aesthetic Things
+
+- Hello Kitty plushies  
+- Coding in pastel themes  
+- Cozy mornings with tea  
+- Pink sunsets  
+- Soft keyboard sounds  
+- Organizing my Notion  
+- Journaling under fairy lights  
+- Saying: “I got this!”
 
 ---
 
 ## ♡ Let’s Be Friends
 
-- **Instagram**: [@lina_yassire](https://instagram.com/lina_yassire)  
-  💌 DM me anytime to talk about cute things, school, or tech!
+- *Instagram*: [@lina_yassire](https://instagram.com/lina_yassire)  
+  → Slide into my DMs if you love cute code, cats, and good vibes.
+
+---
+
+## 💬 Let’s Chat
+
+Feel free to open an issue or leave a comment if you:
+- want to collab on a cute project
+- just need a soft techy friend
+- wanna say hi!
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=24&pause=1000&color=F9A8D4&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;You're+magical+and+so+am+I!;Let's+code+cute+things+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=25&duration=3000&color=FFB6C1&center=true&vCenter=true&lines=Thanks+for+visiting!+You're+magical.;I+believe+in+you.;Let's+build+sparkly+things+together!" />
+</p>
+
+<p align="center">  
+  ˗ˏˋ 💖 Built with love, glitter, and curiosity 💖 ˎˊ˗  
 </p>
