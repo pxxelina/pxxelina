@@ -112,10 +112,11 @@ Currently exploring: AI · Neural Networks · Prompt Engineering
 
 ---
 
+
 ## ♡ Let’s Be Friends
 
-[![Instagram](https://img.shields.io/badge/Instagram-@lina__yassire-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lina_yassire)
-[![Email Me](https://img.shields.io/badge/Email-linayassire00@gmail.com-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linayassire00@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-@lina_yassire-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lina_yassire)
+[![Email Me](https://img.shields.io/badge/email-linayassire00@gmail.com-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linayassire00@gmail.com)
 
 ---
 
