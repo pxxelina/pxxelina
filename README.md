@@ -132,8 +132,6 @@ Feel free to open an issue or leave a comment if you:
 
 ---
 
-˗ˏˋ 💖 Built with love, glitter, and curiosity 💖 ˎˊ˗
-
 
 
 
