@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="WhatsApp Image 2025-05-19 at 02.26.00_f2c68f12.jpg" width="650" >
+  <img src="WhatsApp Image 2025-05-19 at 02.26.00_f2c68f12.jpg" width="500" >
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=24&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Welcome+to+Lina's+Universe!;Soft+code+dreams+in+baby+pink...;You're+magical+and+so+am+I." />
