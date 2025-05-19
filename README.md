@@ -19,15 +19,13 @@
 
 ## 🌷 About Me
 
-- ✨ *Pronouns*: she/her  
 - 💻 *Languages I Use*: Python, C, HTML/CSS, JavaScript  
 - 🐱 *I Love*: Cats, soft music, Hello Kitty, coding cute things  
 - ✈ *Dreams*: Travel the world, build an aesthetic app, shine in tech  
 - 📚 *Currently Learning*: React ⚛, AI & Machine Learning 🧠, Algorithms  
 - ☁ *Vibe*: Whimsical, kind-hearted, focused, sparkly  
 - ✨ *Personality*: Ambivert, dreamy, and always curious  
-- ❤‍🔥 *Mood Today*: Creative and caffeinated
-
+  
 ---
 
 ## ✨ Dev Toolbox
@@ -102,6 +100,20 @@
 - Saying: “I got this!”
 
 ---
+
+## ✨📚 Philosophy & Literature
+
+I find wonder in words and meaning — and I'm enchanted by:
+
+- *Fyodor Dostoevsky* – the soul’s darkest corners lit by raw, reflective brilliance.
+- *Franz Kafka* – surreal visions wrapped in quiet shadows.
+- *Albert Camus* – the elegance of absurdity and silent rebellion.
+
+> “Pain and suffering are always inevitable for a large intelligence and a deep heart.”  
+> — *Fyodor Dostoevsky*
+
+Literature is where I breathe, and philosophy is how I dream — both inspire my inner world and the code I create.
+
 
 ## ♡ Let’s Be Friends
 
