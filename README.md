@@ -1,12 +1,8 @@
 <p align="center">
   <img src="WhatsApp Image 2025-05-19 at 02.26.00_f2c68f12.jpg" width="650" >
 
-<h1 align="center">♡ Welcome to Lina's Soft Universe ♡</h1>
 <p align="center">
-  <img src="https://media.tenor.com/4JWqR_sIw_sAAAAi/hello-kitty-flowers.gif" width="200" alt="Hello Kitty waving with flowers" />
-</p>
-<p align="center">
-  <img src="https://media.tenor.com/4JWqR_sIw_sAAAAi/hello-kitty-flowers.gif" width="200" alt="Hello Kitty waving with flowers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=24&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Welcome+to+Lina's+Universe!;Soft+code+dreams+in+baby+pink...;You're+magical+and+so+am+I." />
 </p>
 
 <p align="center">
@@ -19,12 +15,21 @@
 
 ## 🌷 About Me
 
-- 💻 *Languages I Use*: Python, C, HTML/CSS, JavaScript  
-- 🐱 *I Love*: Cats, soft music, Hello Kitty, coding cute things  
-- ✈ *Dreams*: Travel the world, build an aesthetic app, shine in tech  
-- 📚 *Currently Learning*: React ⚛, AI & Machine Learning 🧠, Algorithms  
-- ☁ *Vibe*: Whimsical, kind-hearted, focused, sparkly  
-- ✨ *Personality*: Ambivert, dreamy, and always curious  
+<p align="center">
+  <img src="https://img.shields.io/badge/𖦹 About Me -ffcfe6?style=for-the-badge&logoColor=ff69b4" />
+</p>
+
+<p align="center">
+  <strong>Personality:</strong> Ambivert · Dreamy · Curious  
+  <br />
+  <strong>Vibe:</strong> Whimsical · Kind-hearted · Sparkly · Focused  
+  <br /><br />
+  I believe in quiet magic, soft growth, and pink power.  
+  <br />
+  Coding is my safe space — just me, my laptop, and a playlist full of soft melodies.  
+  <br />
+  I adore cats, daydreaming, and the little details that make life glow.  
+</p>
   
 ---
 
