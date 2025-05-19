@@ -32,33 +32,19 @@
 
 ## 🌸✨ My Magical Toolbox ✨🌸
 
-<div align="center" style="animation: float 4s ease-in-out infinite;">
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-ffc0cb?style=for-the-badge&logo=python&logoColor=white&labelColor=ffb6c1" />
+  <img src="https://img.shields.io/badge/-HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=white&labelColor=ffb6c1" />
+  <img src="https://img.shields.io/badge/-CSS3-ffc0cb?style=for-the-badge&logo=css3&logoColor=white&labelColor=ffb6c1" />
+  <img src="https://img.shields.io/badge/-JavaScript-ffc0cb?style=for-the-badge&logo=javascript&logoColor=white&labelColor=ffb6c1" />
+  <img src="https://img.shields.io/badge/-Java-ffc0cb?style=for-the-badge&logo=java&logoColor=white&labelColor=ffb6c1" />
+  <img src="https://img.shields.io/badge/-VS%20Code-ffc0cb?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ffb6c1" />
+  <img src="https://img.shields.io/badge/-GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=white&labelColor=ffb6c1" />
+  <img src="https://img.shields.io/badge/-Linux-ffc0cb?style=for-the-badge&logo=linux&logoColor=white&labelColor=ffb6c1" />
+  <img src="https://img.shields.io/badge/-AI-ffc0cb?style=for-the-badge&logo=openai&logoColor=white&labelColor=ffb6c1" />
+</p>
 
-<img src="https://img.shields.io/badge/-Python-ffc0cb?style=for-the-badge&logo=python&logoColor=white&labelColor=ffb6c1" />
-<img src="https://img.shields.io/badge/-HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=white&labelColor=ffb6c1" />
-<img src="https://img.shields.io/badge/-CSS3-ffc0cb?style=for-the-badge&logo=css3&logoColor=white&labelColor=ffb6c1" />
-<img src="https://img.shields.io/badge/-JavaScript-ffc0cb?style=for-the-badge&logo=javascript&logoColor=white&labelColor=ffb6c1" />
-<img src="https://img.shields.io/badge/-Java-ffc0cb?style=for-the-badge&logo=java&logoColor=white&labelColor=ffb6c1" />
-<img src="https://img.shields.io/badge/-VS%20Code-ffc0cb?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ffb6c1" />
-<img src="https://img.shields.io/badge/-GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=white&labelColor=ffb6c1" />
-<img src="https://img.shields.io/badge/-Linux-ffc0cb?style=for-the-badge&logo=linux&logoColor=white&labelColor=ffb6c1" />
-<img src="https://img.shields.io/badge/-AI-ffc0cb?style=for-the-badge&logo=openai&logoColor=white&labelColor=ffb6c1" />
-
-</div>
-
-<div align="center">
-
-⭐🌸💖🌷✨💗🌺💫🩰🎀🦢🌼🧸🌟💐💞🕊🌷💖⭐
-
-</div>
-
-<style>
-@keyframes float {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0); }
-}
-</style>
+---
 
 ## ♡ Projects I’m Planning
 
