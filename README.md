@@ -21,11 +21,11 @@
 
 <p align="center">
 
-<strong>Personality:</strong> Ambivert · Dreamy · Curious   ☁  
-<strong>Vibe:</strong> Whimsical · Kind-hearted · Sparkly · Focused  ✨  
-<strong>Likes:</strong> Cats · Soft music · Pretty details · Aesthetic calm  🕊  
-<strong>Favorite colors:</strong> Black · Blue · Baby Pink  🩰  
-<strong>Favorite fruits:</strong> Pineapple · Strawberries · Peach · Nectarine  🍓  
+★ <strong>Personality:</strong> Ambivert · Dreamy · Curious   ☁  
+★ <strong>Vibe:</strong> Whimsical · Kind-hearted · Sparkly · Focused  ✨  
+★ <strong>Likes:</strong> Cats · Soft music · Pretty details · Aesthetic calm  🕊  
+★ <strong>Favorite colors:</strong> Black · Blue · Baby Pink  🩰  
+★ <strong>Favorite fruits:</strong> Pineapple · Strawberries · Peach · Nectarine  🍓  
 
 </p>
 ---
