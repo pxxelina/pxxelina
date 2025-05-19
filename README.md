@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="WhatsApp Image 2025-05-19 at 02.26.00_f2c68f12" width="650" >
+  <img src="WhatsApp Image 2025-05-19 at 02.26.00_f2c68f12.jpg" width="650" >
 </p>
 
 ![soft pink vibes](https://i.pinimg.com/originals/e3/2c/9a/e32c9a24150586a7f6cbfb1ffb4ef7d2.gif)
