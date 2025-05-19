@@ -54,19 +54,7 @@
 
 > 🌈 Soon to bloom. Stay tuned, cutie!  
 
----
 
-## ☁ Aesthetic Moodboard
-
-> "You’re not just learning code...  
-> You’re creating a magical life."
-
-- 🫧 Soft  
-- 🧁 Sweet  
-- 🕊 Peaceful  
-- 🐇 Gentle  
-- ✨ Powerful  
-- 🧚‍♀ A little chaotic, in a fairy way  
 
 ---
 
@@ -77,7 +65,7 @@
 - [x] Wrote a line of code  
 - [x] Stayed soft  
 - [x] Believed in my own magic  
-- [ ] Took over the world (maybe tomorrow)
+
 
 ---
 
@@ -91,18 +79,8 @@
 
 ---
 
-## ❥ Favorite Aesthetic Things
 
-- Hello Kitty plushies  
-- Coding in pastel themes  
-- Cozy mornings with tea  
-- Pink sunsets  
-- Soft keyboard sounds  
-- Organizing my Notion  
-- Journaling under fairy lights  
-- Saying: “I got this!”
 
----
 
 ## ✨📚 Philosophy & Literature
 
