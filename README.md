@@ -30,7 +30,6 @@
 </p>
 ---
 
-## ✨ Dev Toolbox
 
 ## 🌸✨ My Magical Toolbox ✨🌸
 
