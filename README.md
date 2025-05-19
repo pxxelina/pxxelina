@@ -30,7 +30,6 @@
 </p>
 ---
 
-
 ## 🌸✨ My Magical Toolbox ✨🌸
 
 <p align="center">
@@ -44,17 +43,28 @@
   <img src="https://img.shields.io/badge/OpenAI-ffe0f0?style=for-the-badge&logo=openai&logoColor=ff1493" />
 </p>
 
+---  
+
+ 
+| Project Name   | Vibe                     | Description                                        | Tech                 |
+|----------------|--------------------------|----------------------------------------------------|----------------------|
+| CatTrack     | Sweet & Careful 🐾        | A cute cat mood & health tracker                   | Python, Tkinter      |
+| NoteNest     | Soft Study 🧸             | A pastel-colored notebook for cute notes           | HTML, CSS, JS        |
+| AI Whisper   | Magical Support 🌙        | A soft chatbot that gives cozy advice & compliments| Python, OpenAI       |
+| Mood Garden  | Aesthetic Garden App 🌸   | Tracks moods with flowers & sparkle animations     | React, Firebase      |
+
+🌈 Soon to bloom. Stay tuned, cutie!
+
 ---
-| Project Name     | Vibe                        | Description                                          | Tech |
-|------------------|-----------------------------|------------------------------------------------------|------|
-| *CatTrack*     | Sweet & Careful 🐾           | A cute cat mood & health tracker                     | Python, Tkinter |
-| *NoteNest*     | Soft Study 🧸                | A pastel-colored notebook for cute notes             | HTML, CSS, JS |
-| *AI Whisper*   | Magical Support 🌙           | A soft chatbot that gives cozy advice & compliments  | Python, OpenAI |
-| *Mood Garden*  | Aesthetic Garden App 🌸      | Tracks moods with flowers & sparkle animations       | React, Firebase |
 
-> 🌈 Soon to bloom. Stay tuned, cutie!  
+## ✨ About Me
 
+Hi! I’m *Lina Yassire* — a first-year dev student with a love for clean code, soft design, and a spark of magic.  
+I build tools that blend tech and feeling, and I’m especially curious about the future of *AI, **UX, and **ethical coding*.
 
+- I write code in *Python, **JavaScript, and **React*
+- Currently exploring *AI, **prompt engineering, and **neural networks*
+- I believe the future is both *intelligent* and *aesthetic*
 
 ---
 
@@ -66,7 +76,6 @@
 - [x] Stayed soft  
 - [x] Believed in my own magic  
 
-
 ---
 
 ## ☕ Currently...
@@ -75,42 +84,53 @@
 - Watching: Something soft and pink on Netflix  
 - Listening: Lofi beats with cat purrs  
 - Eating: Chocolate and strawberries  
-- Feeling: Full of sparkle
+- Feeling: Full of sparkle  
 
 ---
-
-
-
 
 ## ✨📚 Philosophy & Literature
 
 I find wonder in words and meaning — and I'm enchanted by:
 
-- *Fyodor Dostoevsky* – the soul’s darkest corners lit by raw, reflective brilliance.
-- *Franz Kafka* – surreal visions wrapped in quiet shadows.
-- *Albert Camus* – the elegance of absurdity and silent rebellion.
+- Fyodor Dostoevsky – the soul’s darkest corners lit by raw, reflective brilliance  
+- Franz Kafka – surreal visions wrapped in quiet shadows  
+- Albert Camus – the elegance of absurdity and silent rebellion
 
-> “Pain and suffering are always inevitable for a large intelligence and a deep heart.”  
-> — *Fyodor Dostoevsky*
+> “Pain and suffering are always inevitable for a large intelligence and a deep heart.” — Fyodor Dostoevsky
 
 Literature is where I breathe, and philosophy is how I dream — both inspire my inner world and the code I create.
 
+---
+
+## 🛠 Tech Stack
+
+txt
+Languages: Python · JavaScript · HTML/CSS · C  
+Frameworks & Tools: React · Firebase · Bash · Tkinter  
+Currently exploring: AI · Neural Networks · Prompt Engineering
+
+
+---
 
 ## ♡ Let’s Be Friends
 
-- *Instagram*: [@lina_yassire](https://instagram.com/lina_yassire)  
-  → Slide into my DMs if you love cute code, cats, and good vibes.
+- Instagram: [@lina_yassire](https://instagram.com/lina_yassire) → Slide into my DMs if you love cute code, cats, and good vibes.
 
 ---
 
 ## 💬 Let’s Chat
 
 Feel free to open an issue or leave a comment if you:
-- want to collab on a cute project
-- just need a soft techy friend
+
+- want to collab on a cute project  
+- just need a soft techy friend  
 - wanna say hi!
 
 ---
+
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=25&duration=3000&color=FFB6C1&center=true&vCenter=true&lines=Thanks+for+visiting!+You're+magical.;I+believe+in+you.;Let's+build+sparkly+things+together!" />
