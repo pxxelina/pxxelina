@@ -2,7 +2,9 @@
   <img src="WhatsApp Image 2025-05-19 at 02.26.00_f2c68f12.jpg" width="650" >
 
 <h1 align="center">♡ Welcome to Lina's Soft Universe ♡</h1>
-
+<p align="center">
+  <img src="https://media.tenor.com/4JWqR_sIw_sAAAAi/hello-kitty-flowers.gif" width="200" alt="Hello Kitty waving with flowers" />
+</p>
 <p align="center">
   <img src="https://media.tenor.com/4JWqR_sIw_sAAAAi/hello-kitty-flowers.gif" width="200" alt="Hello Kitty waving with flowers" />
 </p>
