@@ -4,7 +4,7 @@
 
 ![soft pink vibes](https://i.pinimg.com/originals/e3/2c/9a/e32c9a24150586a7f6cbfb1ffb4ef7d2.gif)
 
-<h1 align="center">♡ hi, i’m lina ♡</h1>
+<h1 align="center">♡ hi, i’m Lina  Yassire ♡</h1>
 
 <p align="center">
   a student with soft dreams, a curious heart, and a love for learning code ✨<br>
