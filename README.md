@@ -124,6 +124,13 @@ Currently exploring: AI · Neural Networks · Prompt Engineering
 
 ![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxxelina&show_icons=true&theme=radical)
 
+---
+
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxelina&layout=compact&theme=tokyonight)
+
+
 ## ♡ Let’s Be Friends
 
 [![Instagram](https://img.shields.io/badge/instagram-@lina_yassire-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lina_yassire)
