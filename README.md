@@ -1,128 +1,179 @@
-<!-- 🌸 Optional banner image (replace this with your own hosted image if you like) -->
+<!-- 🌸 Welcome Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Qo2ZJHz.png" width="100%" alt="Aesthetic Flower Banner"/>
+  <img src="WhatsApp Image 2025-05-19 at 02.26.00_f2c68f12.jpg" width="400" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=24&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Welcome+to+Lina's+Universe!;Soft+code+dreams+in+baby+pink...;You're+magical+and+so+am+I." />
+</p>
 
-<h1>
-<span style="background: linear-gradient(90deg, #ffc0cb, #ffb6c1, #dda0dd, #e0bbff, #ffc0cb); -webkit-background-clip: text; color: transparent;">
-✨ Welcome to Pxxelina World ✨
-</span>
-</h1>
-
-<p><i>Crafted with glitter, code, and curiosity</i> 🌷</p>
-
-</div>
+<p align="center">
+  🌸✨ Girly Dev • Cat Whisperer • Magic Coder • Dream Chaser ✨🌸  
+  <br>
+  <strong>“You're magical, and so am I.”</strong>
+</p>
 
 ---
 
-<div align="center">
+## 🌷 About Me
 
-> 🌸 *"Code softly, dream loudly."*  
-> 🩰 Written with love, by Lina Yassire
+<p align="center">
+  <img src="https://img.shields.io/badge/𖦹 About Me -ffcfe6?style=for-the-badge&logoColor=ff69b4" />
+</p>
 
-</div>
+<p align="center">
 
----
+★ <strong>Personality:</strong> Ambivert · Dreamy · Curious ☁  
+★ <strong>Vibe:</strong> Whimsical · Kind-hearted · Sparkly ✨  
+★ <strong>Likes:</strong> Cats · Soft music · Pretty details 🕊  
+★ <strong>Favorite colors:</strong> Black · Blue · Baby Pink 🩰  
+★ <strong>Favorite fruits:</strong> Pineapple · Strawberries · Peach 🍓  
 
-## 🌸 Meet Lina Yassire
-
-Hey lovely visitor! I’m **Lina Yassire**, aka **Pixolina** online.  
-I'm a 19-year-old university student in the **MIP program**, majoring in **Mathematics, Physics, and Computer Science**.  
-I’m a pastel-souled coder with a ballerina heart.
-
----
-
-## 🧁 My Personality in Pink
-
-- 🩰 Loves elegance and gentle vibes  
-- ✨ Aesthetics matter (in life & code)  
-- 🎹 Musician, singer & a creative spirit  
-- ♟️ Chess lover & deep thinker  
-- 🐈 Cat lover with soft coding claws  
+</p>
 
 ---
 
-## 🧠 I Code, Therefore I Think
+## 🌟 My Skills & Hobbies
 
-I believe coding is **logic with soul**.  
-Reading **Kafka**, **Camus**, and **Dwarf Whiskey** gives me life.  
-I love how philosophy blends with tech — both are about understanding the world.
-
----
-
-## 🛠️ My Toolbox
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-ffc0cb?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-ffc0cb?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffc0cb?style=for-the-badge&logo=javascript&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-ffc0cb?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+- ✨ Jewelry Design: Handmade aesthetic pieces  
+- 🎵 Music: Piano, singing, composing soft melodies  
+- ♟ Chess: Calm strategy lover  
+- 📖 Reading: Dark romance & cozy mysteries  
 
 ---
 
-## ✨ My Sparkling Projects
+## 🌸✨ My Magical Toolbox ✨🌸
 
-- 🎹 **Virtual Piano** – Type and play your melody  
-- 🐾 **Virtual Cat** – Interactive virtual pet with attitude  
-- ⚙️ **Pxxelina Boots** – Still baking in my soft lab...
-
----
-
-## 📚 Philosophy & Literature
-
-I love stories that make me **feel deeply**.  
-My bookshelf is full of complex beauty:  
-> **Kafka**, **Camus**, **Dwarf Whiskey**, and more...  
-They remind me to live boldly and code meaningfully.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ffcfe6?style=for-the-badge&logo=python&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/HTML5-ffe6f2?style=for-the-badge&logo=html5&logoColor=ff1493" />
+  <img src="https://img.shields.io/badge/CSS3-fddde6?style=for-the-badge&logo=css3&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/JavaScript-fff0f5?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/VS_Code-ffe6fa?style=for-the-badge&logo=visual-studio-code&logoColor=6e40c9" />
+  <img src="https://img.shields.io/badge/GitHub-fde7f7?style=for-the-badge&logo=github&logoColor=8b008b" />
+  <img src="https://img.shields.io/badge/Linux-fff5fb?style=for-the-badge&logo=linux&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/OpenAI-ffe0f0?style=for-the-badge&logo=openai&logoColor=ff1493" />
+</p>
 
 ---
 
-## ⭐ Achievements & GitHub Magic
+## 🌸 Featured Projects
 
-<div align="center">
+| Project Name   | Vibe                   | Description                                          | Tech Stack              |
+|----------------|------------------------|------------------------------------------------------|--------------------------|
+| **CatTrack**   | Sweet & Careful 🐾     | A cute cat mood & health tracker                     | Python, Tkinter          |
+| **NoteNest**   | Soft Study 🧸          | A pastel-colored notebook for cozy notes             | HTML, CSS, JavaScript    |
+| **AI Whisper** | Magical Support 🌙     | Soft chatbot that gives cozy advice & compliments    | Python, OpenAI           |
+| **Mood Garden**| Aesthetic 🌸           | Mood tracker with flowers and sparkle animations     | React, Firebase          |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pxxelina&show_icons=true&theme=tokyonight&title_color=ffc0cb&icon_color=ffc0cb)  
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxelina&layout=compact&theme=tokyonight&title_color=ffc0cb)
-
-</div>
-
----
-
-## 📬 Contact Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linayassire00@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lina_yassire)  
-[![GitHub](https://img.shields.io/badge/-GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxxelina)
-
-</div>
+🌱 *More dreamy apps blooming soon...*
 
 ---
 
-<div align="center">
+## 💖 About Me in Code
 
-✨ *Thank you for stepping into my pink-coded universe.* ✨  
-*Keep coding, keep blooming.*  
-🩰 With all my heart,  
-**Lina Yassire**
+Hi! I’m *Lina Yassire* — a first-year dev student with a love for clean code, soft UI, and a spark of magic.  
 
-</div>
+- 🪄 Exploring AI, prompt engineering & neural networks  
+- 💻 I code in Python, JS, React & HTML/CSS  
+- 🌈 I believe the future is intelligent *and* beautiful  
+
+---
+
+## ✅ Magical Daily Checklist
+
+- [x] Woke up with a dream  
+- [x] Took care of myself  
+- [x] Wrote a line of code  
+- [x] Stayed soft  
+- [x] Believed in my magic  
+
+---
+
+## 🎀 My Aesthetic Interests
+
+- 🎧 Listening: Lofi beats & cat purrs  
+- 📚 Reading: UX blogs + dark romance  
+- 📺 Watching: Something soft and pink  
+- 🍫 Eating: Chocolate & strawberries  
+- ✨ Feeling: Calm and sparkly  
+
+---
+
+## ✨ Favorite Literature
+
+- 🖋 **Dostoevsky** — soul’s reflections in dark brilliance  
+- 🌫 **Kafka** — soft chaos wrapped in surreal shadows  
+- ☀ **Camus** — quiet rebellion and elegant absurdity  
+
+> *“Pain and suffering are always inevitable for a large intelligence and a deep heart.”* — Dostoevsky
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python · JavaScript · HTML/CSS · C  
+**Frameworks & Tools:** React · Firebase · Bash · Tkinter  
+**Currently Exploring:** AI · Neural Networks · Prompt Engineering
+
+---
+
+## 📈 GitHub Stats & Activity
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxelina&layout=compact&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api?username=pxxelina&theme=dark&hide_border=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=pxxelina&theme=dark&hide_border=false)  
+
+![](https://github-profile-trophy.vercel.app/?username=pxxelina&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repos
+
+![](https://github-contributor-stats.vercel.app/api?username=pxxelina&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 💌 Contact Me
+
+[![Instagram](https://img.shields.io/badge/instagram-@lina_yassire-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lina_yassire)  
+[![Email](https://img.shields.io/badge/Email-linayassire00@gmail.com-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linayassire00@gmail.com)
+
+---
+
+## 💬 Let's Chat
+
+Want to:
+
+- 💖 Collaborate on a cute project?  
+- 💫 Just say hi or be techy friends?  
+- 🐾 Share dreamy ideas?
+
+Feel free to reach out anytime! 🌸
 
 ---
 
 ## 📝 License
 
-This project is licensed under the **MIT License**.  
-You are free to remix it, sparkle it, and share it!  
-See the [LICENSE](./LICENSE) file for details.
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-ffb6c1?style=for-the-badge&logoColor=white" />
+  <br><br>
+  This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=25&duration=3000&color=FFB6C1&center=true&vCenter=true&lines=Thanks+for+visiting!+You're+magical.;I+believe+in+you.;Let's+build+sparkly+things+together!" />
+</p>
+
+<p align="center">  
+  ˗ˏˋ 💖 Built with love, glitter, and curiosity 💖 ˎˊ˗  
+</p>
