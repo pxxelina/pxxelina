@@ -120,12 +120,13 @@ Hi! I’m *Lina Yassire* — a first-year dev student with a love for clean code
 
 ## 📈 GitHub Stats & Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxelina&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxelina&layout=compact&theme=radical&title_color=ffb6c1&text_color=ffb6c1)
 
-![](https://github-readme-stats.vercel.app/api?username=pxxelina&theme=dark&hide_border=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=pxxelina&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=pxxelina&theme=radical&title_color=ffb6c1&text_color=ffb6c1&hide_border=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=pxxelina&theme=radical&ring=ffb6c1&fire=ffcce0&currStreakLabel=ffb6c1&hide_border=false)  
 
-![](https://github-profile-trophy.vercel.app/?username=pxxelina&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pxxelina&theme=flat&no-frame=false&no-bg=false&margin-w=4&title=ffb6c1&text=ff69b4)
+
 
 ---
 
@@ -143,8 +144,13 @@ Hi! I’m *Lina Yassire* — a first-year dev student with a love for clean code
 
 ## 💌 Contact Me
 
+## 💌 Contact Me
+
 [![Instagram](https://img.shields.io/badge/instagram-@lina_yassire-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lina_yassire)  
 [![Email](https://img.shields.io/badge/Email-linayassire00@gmail.com-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linayassire00@gmail.com)
+
+
+
 
 ---
 
@@ -159,7 +165,6 @@ Want to:
 Feel free to reach out anytime! 🌸
 
 ---
-
 ## 📝 License
 
 <p align="center">
@@ -167,6 +172,8 @@ Feel free to reach out anytime! 🌸
   <br><br>
   This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.
 </p>
+
+
 
 ---
 
