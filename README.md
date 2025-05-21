@@ -1,44 +1,32 @@
+
+
+
+<!-- Cute Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Lina%20Yassire%20%7C%20pxxelina&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Cosmic%20Coder%20%F0%9F%8C%9F&descAlignY=70&descAlign=70" alt="Lina Yassire Cute Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFB6C1,FFC0CB&height=150&section=header&text=Lina%20Yassire%20%7C%20pxxelina&fontSize=36&fontColor=4B0082&desc=Coding%20among%20the%20stars%20%E2%9C%85&descAlignY=60" alt="Lina Yassire Banner" />
 </p>
-
-<p align="center" style="margin: 30px 0; font-size: 18px; font-weight: 600; color: #FFB6C1; letter-spacing: 4px;">
-  ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
-</p>
-
-<!-- About Me -->
-<p align="center" style="font-size: 16px; font-weight: 700; color: #c48cae; text-transform: uppercase; margin-top: -25px; margin-bottom: 25px;">
-  About Me
-</p>
-
-<p align="center" style="margin: 10px 0 40px 0; font-size: 14px; color: #d9a3bb; font-style: italic;">
-  ✧ Weaving my story among stars ✧
-</p>
-
-Hello! I’m **Lina Yassire** (GitHub: [pxxelina](https://github.com/pxxelina)) —  
-a passionate developer focused on building interactive web projects and smart bots, blending minimalism with a cosmic, mysterious vibe.  
-
-When I’m not coding, you’ll find me dreaming up virtual companions like my **Virtual Cat 🐱** or playing melodies on my **Virtual Piano 🎹**.
-
-- 📫 Reach me at: [linayassire00@gmail.com](mailto:linayassire00@gmail.com)  
-- 📸 Instagram: [@lina_yassire](https://instagram.com/lina_yassire)  
 
 ---
 
-<!-- Toolbox -->
-<p align="center" style="margin: 30px 0; font-size: 18px; font-weight: 600; color: #FFB6C1; letter-spacing: 4px;">
-  ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+## 👋 About Me
+
+Hi! I'm **Lina Yassire** (GitHub: [pxxelina](https://github.com/pxxelina)) — a passionate developer who loves building interactive, cosmic-inspired projects with a mysterious yet cute vibe.  
+
+✨ When I'm not coding, I enjoy creating virtual companions like my **Virtual Cat** and crafting melodies with my **Virtual Piano**.
+
+📫 Reach me: [linayassire00@gmail.com](mailto:linayassire00@gmail.com)  
+📸 Instagram: [@lina_yassire](https://instagram.com/lina_yassire)
+
+---
+
+<!-- Toolbox Banner -->
+<p align="center" style="background: linear-gradient(90deg, #FFB6C1, #FFD6E8); padding: 15px 0; border-radius: 15px; margin: 40px 0 25px 0;">
+  <strong style="font-size: 22px; color: #800080; letter-spacing: 4px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    🛠️ Toolbox — Languages & Tools
+  </strong>
 </p>
 
-<p align="center" style="font-size: 16px; font-weight: 700; color: #c48cae; text-transform: uppercase; margin-top: -25px; margin-bottom: 25px;">
-  Toolbox — Languages & Tools
-</p>
-
-<p align="center" style="margin: 10px 0 40px 0; font-size: 14px; color: #d9a3bb; font-style: italic;">
-  ✧ My trusted cosmic instruments ✧
-</p>
-
-<p align="center" >
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -50,62 +38,38 @@ When I’m not coding, you’ll find me dreaming up virtual companions like my *
 
 ---
 
-<!-- Projects -->
-<p align="center" style="margin: 30px 0; font-size: 18px; font-weight: 600; color: #FFB6C1; letter-spacing: 4px;">
-  ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
-</p>
+## 🚀 Selected Projects
 
-<p align="center" style="font-size: 16px; font-weight: 700; color: #c48cae; text-transform: uppercase; margin-top: -25px; margin-bottom: 25px;">
-  Selected Projects
-</p>
-
-<p align="center" style="margin: 10px 0 40px 0; font-size: 14px; color: #d9a3bb; font-style: italic;">
-  ✧ Interactive space-inspired projects ✧
-</p>
-
-| Project            | Description                                                    | Demo / Repo                                                |
-|--------------------|----------------------------------------------------------------|------------------------------------------------------------|
-| Virtual Piano 🎹    | A responsive web piano for crafting cosmic melodies.           | [Live Demo](https://your-piano-demo-link.vercel.app)       |
-| Virtual Cat 🐱      | Interactive cat companion with animations and personality.     | [Live Demo](https://your-virtual-cat-link.vercel.app)      |
-| Intelligent Bot 🤖  | A smart automation bot in progress to navigate digital space.  | _Repository coming soon_                                    |
+| Project          | Description                                            | Demo / Repo                                           |
+|------------------|--------------------------------------------------------|-------------------------------------------------------|
+| 🎹 Virtual Piano | Responsive web piano for crafting cosmic melodies.     | [Live Demo](https://your-piano-demo-link.vercel.app) |
+| 🐱 Virtual Cat   | Interactive virtual cat companion with personality.    | [Live Demo](https://your-virtual-cat-link.vercel.app)|
+| 🤖 Intelligent Bot | Smart automation bot in progress for digital space.    | _Coming Soon_                                         |
 
 ---
 
-<!-- Baby Pink Stats & Achievements Banner -->
-<p align="center" style="background: linear-gradient(90deg, #FFB6C1, #ffe6f0); padding: 12px 0; border-radius: 15px; margin: 40px 0 20px 0;">
-  <span style="font-size: 20px; font-weight: 700; color: #fff; letter-spacing: 4px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    ★ GitHub Stats & Achievements ★
-  </span>
-</p>
-
-<p align="center" style="margin: 10px 0 40px 0; font-size: 14px; color: #cc8aa4; font-style: italic;">
-  ✧ Tracking my cosmic journey ✧
+<!-- Stats & Achievements Banner -->
+<p align="center" style="background: linear-gradient(90deg, #FFB6C1, #FFC0CB); padding: 18px 0; border-radius: 15px; margin: 40px 0 25px 0;">
+  <strong style="font-size: 22px; color: #800080; letter-spacing: 4px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    ⭐ GitHub Stats & Achievements
+  </strong>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pxxelina&theme=flat&no-frame=true&column=4&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=pxxelina&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ffb6c1&icon_color=ff69b4&text_color=ffffff&bg_color=ffffff" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pxxelina&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ffb6c1&icon_color=ff69b4&text_color=800080&bg_color=fff0f5" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxxelina&layout=compact&theme=radical&hide_border=true&title_color=ffb6c1&text_color=ff69b4&bg_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxxelina&layout=compact&theme=radical&hide_border=true&title_color=ffb6c1&text_color=ff69b4&bg_color=fff0f5" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- Contributions -->
-<p align="center" style="background: linear-gradient(90deg, #FFB6C1, #ffe6f0); padding: 12px 0; border-radius: 15px; margin: 40px 0 20px 0;">
-  <span style="font-size: 20px; font-weight: 700; color: #fff; letter-spacing: 4px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    ★ Contributions & Activity ★
-  </span>
-</p>
-
-<p align="center" style="margin: 10px 0 40px 0; font-size: 14px; color: #cc8aa4; font-style: italic;">
-  ✧ Visualizing my cosmic footprints ✧
-</p>
+## 📈 Contributions & Activity
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=pxxelina&theme=react-dark&hide_border=true" alt="Contribution Graph" />
@@ -113,59 +77,26 @@ When I’m not coding, you’ll find me dreaming up virtual companions like my *
 
 ---
 
-<!-- Features -->
-<p align="center" style="margin: 30px 0; font-size: 18px; font-weight: 600; color: #FFB6C1; letter-spacing: 4px;">
-  ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
-</p>
+## ✨ Key Features
 
-<p align="center" style="font-size: 16px; font-weight: 700; color: #c48cae; text-transform: uppercase; margin-top: -25px; margin-bottom: 25px;">
-  Key Features
-</p>
-
-<p align="center" style="margin: 10px 0 40px 0; font-size: 14px; color: #d9a3bb; font-style: italic;">
-  ✧ What makes me unique in the digital cosmos ✧
-</p>
-
-- 💻 **Interactive Projects:** Virtual piano and virtual cat to showcase UI/UX and interactivity skills.  
-- 🤖 **Bot Development:** Working on intelligent automation for real-world applications.  
-- 📊 **Data-driven:** Using GitHub stats to improve and visualize growth and skills.  
-- 🚀 **Continuous Learning:** Exploring new tools like Docker and Node.js to keep my skills sharp.  
-- 🌌 **Cosmic Vibe:** All projects and presentations are inspired by the mysteries of space and the elegance of minimal design.
+- 💻 **Interactive Projects:** Virtual piano and virtual cat showing UI/UX and interactivity skills.  
+- 🤖 **Bot Development:** Building intelligent automation bots for real-world tasks.  
+- 📊 **Data-driven:** Using GitHub stats to visualize growth and skills.  
+- 🚀 **Continuous Learning:** Exploring Docker, Node.js, and more.  
+- 🌌 **Cosmic Vibe:** Space-themed, clean minimal design with cute mysterious flair.
 
 ---
 
-<!-- Future Plans -->
-<p align="center" style="margin: 30px 0; font-size: 18px; font-weight: 600; color: #FFB6C1; letter-spacing: 4px;">
-  ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
-</p>
+## 🔮 Future Plans
 
-<p align="center" style="font-size: 16px; font-weight: 700; color: #c48cae; text-transform: uppercase; margin-top: -25px; margin-bottom: 25px;">
-  Future Plans
-</p>
-
-<p align="center" style="margin: 10px 0 40px 0; font-size: 14px; color: #d9a3bb; font-style: italic;">
-  ✧ What’s next on my cosmic journey ✧
-</p>
-
-- Expand my bot to handle complex automation tasks.  
-- Develop more interactive web experiences with React and Three.js.  
-- Publish tutorials and blog posts to help fellow devs.  
-- Collaborate on open source space-themed projects.  
+- Expand bot capabilities with AI features.  
+- Create immersive web experiences with React & Three.js.  
+- Publish tutorials & blog posts to share knowledge.  
+- Collaborate on open source space-themed projects.
 
 ---
 
-<!-- Contact -->
-<p align="center" style="margin: 30px 0; font-size: 18px; font-weight: 600; color: #FFB6C1; letter-spacing: 4px;">
-  ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
-</p>
-
-<p align="center" style="font-size: 16px; font-weight: 700; color: #c48cae; text-transform: uppercase; margin-top: -25px; margin-bottom: 25px;">
-  Let’s Connect!
-</p>
-
-<p align="center" style="margin: 10px 0 40px 0; font-size: 14px; color: #d9a3bb; font-style: italic;">
-  ✧ Reach out through my cosmic channels ✧
-</p>
+## 📬 Let’s Connect!
 
 <p align="center">
   <a href="https://github.com/pxxelina">
@@ -181,19 +112,33 @@ When I’m not coding, you’ll find me dreaming up virtual companions like my *
 
 ---
 
-<!-- License -->
-<p align="center" style="margin: 50px 0 10px 0; font-size: 16px; font-weight: 700; color: #FFB6C1; letter-spacing: 2px;">
-  License
+## 📝 License
+
+<p align="center" style="background: linear-gradient(90deg, #FFB6C1, #FFD6E8); padding: 20px; border-radius: 15px; color: #800080; font-weight: 700; max-width: 600px; margin: 0 auto;">
+  <img src="https://img.icons8.com/ios-filled/24/800080/license.png" alt="License Icon" style="vertical-align: middle; margin-right: 8px;" />
+  This work is licensed under the
+  <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer" style="color:#800080; font-weight: 700; text-decoration: underline;">
+    MIT License
+  </a>.
+  <br /><br />
+  <em style="font-weight: 400; font-size: 14px;">
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+  </em>
+  <br /><br />
+  <em style="font-weight: 400; font-size: 14px;">
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  </em>
+  <br /><br />
+  <em style="font-weight: 400; font-size: 14px;">
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+  </em>
+  <br /><br />
+  <em style="font-weight: 400; font-size: 14px;">
+    IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  </em>
 </p>
 
-<p align="center" style="margin-bottom: 50px; font-size: 14px; color: #d9a3bb; font-style: italic;">
-  This work is licensed under the <a href="https://opensource.org/licenses/MIT" style="color:#ffb6c1;">MIT License</a>.
-</p>
-
-<p align="center" style="font-size: 12px; color: #d9a3bb;">
+<p align="center" style="font-size: 12px; color: #d9a3bb; margin-top: 10px;">
   © 2025 Lina Yassire — Crafted with cosmic care ✨
 </p>
-
-
-
 
