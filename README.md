@@ -142,7 +142,6 @@ Hi! I’m *Lina Yassire* — a first-year dev student with a love for clean code
 
 ---
 
-## 💌 Contact Me
 
 ## 💌 Contact Me
 
