@@ -1,11 +1,16 @@
 <!-- 
-Insert your image here later 
+🎀 Optional: Insert a banner/image/gif here later
 -->
 
 <div align="center">
 
-# ✨ Welcome to **Pxxelina** World ✨  
-### where code sparkles & dreams bloom.
+<h1>
+<span style="background: linear-gradient(90deg, #ffc0cb, #ffb6c1, #dda0dd, #e0bbff, #ffc0cb); -webkit-background-clip: text; color: transparent;">
+✨ Welcome to Pxxelina World ✨
+</span>
+</h1>
+
+<p><i>where tech meets tenderness</i> 🌸</p>
 
 </div>
 
@@ -13,7 +18,8 @@ Insert your image here later
 
 <div align="center">
 
-> 🌷 *"May your code be clean, your coffee strong, and your dreams even stronger."* 🌷
+> 🌷 *"May your code be clean, your coffee strong, and your dreams even stronger."*  
+> 🩰 Made with love, by Lina
 
 </div>
 
@@ -21,26 +27,26 @@ Insert your image here later
 
 ## 🌸 Who is Pxxelina?
 
-Hi! I’m **Ines** — aka **Pixolina** online.  
+Hi! I’m **Lina** — aka **Pixolina** online.  
 🧁 19 y.o. student in **MIP** (*Maths, Physics & Computer Science*)  
-✨ I adore learning, solving bugs, and romanticizing logic.
+✨ I love making things beautiful — whether it's code or cupcakes.
 
 ---
 
-## 💖 Aesthetic Soul
+## 💖 The Soft Girl Who Codes
 
-🩰 Ballet lover (in code & soul)  
-🎹 Pianist & singer at heart  
-🌸 Obsessed with sparkly things, soft tech & girly vibes  
-🐈 Cat whisperer & cozy coffee-coder  
+🩰 Ballerina of the IDE  
+🎹 Pianist & gentle singer  
+🌸 Romanticizing tech with cozy vibes  
+🐈 Cat whisperer & pink pixel lover  
 
 ---
 
-## 💡 Mind & Dreams
+## 🧠 Philosophy-Driven Coder
 
-🧠 Passionate about **algorithms** & design  
-📚 In love with **philosophy** & poetic coding  
-✍️ Writing my code like literature — one function at a time  
+✍️ I write logic like it’s poetry  
+📖 I read **Kafka**, **Camus**, and **Dwarf Whiskey** to fuel my soul  
+🪄 Between metaphors & algorithms is where I bloom
 
 ---
 
@@ -61,21 +67,21 @@ Hi! I’m **Ines** — aka **Pixolina** online.
 
 ## ✨ Projects I’m Crafting
 
-- 🎹 **Virtual Piano** – A Python-based piano full of lovely notes  
-- 🐾 **Virtual Cat** – A soft-coded desktop kitty to keep you company  
-- ⚙️ **Pxxelina Boots** – A magical system still under stardust & dreams  
+- 🎹 **Virtual Piano** – A melodic world written in Python  
+- 🐾 **Virtual Cat** – A little pink companion to purr while you code  
+- ⚙️ **Pxxelina Boots** – Still sparkling in the making...
 
 ---
 
 ## 📚 Philosophy & Literature
 
-I live between **code and metaphors**.  
-I love reading **Kafka**, **Camus**, and **Dwarf Whiskey** stories.  
-They make me think like a dev, feel like an artist.
+I adore **deep thoughts** and **complex emotions**  
+My bookshelf glows with **Kafka**, **Camus**, and poetic rebellion  
+Coding and reading — both are my forms of expression.
 
 ---
 
-## 📊 Achievements, Stats & Languages
+## 🌟 Achievements & Stats
 
 <div align="center">
 
@@ -91,8 +97,8 @@ They make me think like a dev, feel like an artist.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linayassire00@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lina_yassire)
+[![Email](https://img.shields.io/badge/-Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linayassire00@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lina_yassire)  
 [![GitHub](https://img.shields.io/badge/-GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxxelina)
 
 </div>
@@ -101,7 +107,8 @@ They make me think like a dev, feel like an artist.
 
 <div align="center">
 
-✨ *Shine bright like code in the dark.* ✨
+✨ *Keep shining. Keep learning. Keep blooming.* ✨  
+🩰 From Pxxelina with love
 
 </div>
 
@@ -109,12 +116,8 @@ They make me think like a dev, feel like an artist.
 
 ## 📝 License
 
-This project is licensed under the **MIT License** – feel free to use, share, and build with love!  
-See the [LICENSE](./LICENSE) file for more info.
+This project is under the **MIT License**.  
+You are free to use, fork, sparkle it your way.  
+Check the [LICENSE](./LICENSE) file for more.
 
 ---
-
-
-
-
-
