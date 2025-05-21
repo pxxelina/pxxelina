@@ -1,136 +1,120 @@
- <!-- WELCOME TO LINA'S WORLD --><div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F9A8D4&vCenter=true&multiline=true&width=435&height=70&lines=Hi%2C+Welcome+to+Lina's+World!;Where+Logic+meets+Magic."/>
-</div>
+<!-- 
+Insert your image here later 
+-->
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Lina%20Yassire-Fairy%20Coder-%23f9a8d4?style=flat-square&logo=magic&logoColor=white"/>
+
+# ✨ Welcome to **Pxxelina** World ✨  
+### where code sparkles & dreams bloom.
+
 </div>
----
-
-<div style="background-color:#ffeef8;padding:20px;border-radius:10px;color:#5a5a5a">About Me</div>
-
-✨ I'm Lina Yassire — a passionate 19-year-old first-year developer, creative thinker, and tech dreamer.
-✨ I study Mathematics, Physics, and Computer Science with curiosity and ambition.
-✨ I blend logic and magic in everything I do — code, music, design, or writing.
-
-
----
-
-<div style="background-color:#ffeef8;padding:20px;border-radius:10px;color:#5a5a5a">Hobbies & Interests</div>
-
-♡ Coding and creating unique software experiences
-♡ Singing and playing piano under soft lights
-♡ Jewelry crafting and aesthetic design
-♡ Reading deep philosophy and emotional literature (Kafka, Camus...)
-♡ Exploring the unknown with chess and AI puzzles
-
-
----
-
-<div style="background-color:#f9a8d4;padding:20px;border-radius:10px;color:#5a5a5a">Tech Toolbox</div>
-
-Languages I Use:
-
-     
-
-Tools I Use:
-
-     
-
-
----
-
-<div style="background-color:#ffeef8;padding:20px;border-radius:10px;color:#5a5a5a">Languages I'm Learning</div>
-
-✿ German
-✿ Russian
-✿ Chinese (beginner)
-
-
----
-
-<div style="background-color:#ffeef8;padding:20px;border-radius:10px;color:#5a5a5a">Academic Goals</div>
-
-- Build strong foundations in mathematics and physics
-- Dive deep into computer science and AI
-- Contribute to meaningful research and creative projects
-- Present my work at university seminars and conferences
-
-
----
-
-<div style="background-color:#ffeef8;padding:20px;border-radius:10px;color:#5a5a5a">Mini Projects & Goals</div>
-
-- Aesthetic Portfolio Website (in progress)
-- Student Grade Management System (Python + Tkinter)
-- Personal Journal App (React + Firebase)
-- Algorithms Visualizer (Python)
-- Participate in Hackathons & Dev Challenges
-
-
----
-
-<div style="background-color:#ffeef8;padding:20px;border-radius:10px;color:#5a5a5a">Soft Skills</div>
-
-- Empathy and emotional intelligence
-- Consistent and mindful learner
-- Clean code enthusiast
-- Team collaborator with leadership traits
-- Open to feedback and growth
-
-
----
-
-<div style="background-color:#ffeef8;padding:20px;border-radius:10px;color:#5a5a5a">Fun Favorites</div>
-
-Country I Adore: Japan 🌸
-Literary Soulmates: Kafka, Camus, Joyce Whiskey 📚
-Color Palette: Baby Pink, Soft Nude, Blue & Purple 🎨
-Hidden Talent: Playing piano with closed eyes 🎹
-
-
----
-
-<div style="background-color:#f9a8d4;padding:20px;border-radius:10px;color:#5a5a5a">GitHub Achievements & Stats</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pxxelinaa&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=ff69b4&text_color=5a5a5a"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxxelinaa&layout=compact&theme=rose_pine&bg_color=fff0f5&title_color=ff69b4&text_color=5a5a5a"/>
-</p>
----
-
-<div style="background-color:#ffeef8;padding:20px;border-radius:10px;color:#5a5a5a">Contact Me</div>
-
-💌 Email: linayassire00@gmail.com
-💻 GitHub: https://github.com/pxxelinaa
-📸 Instagram: https://instagram.com/lina_yassire
-
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=500&color=F472B6&center=true&vCenter=true&width=500&lines=You're+magical,+and+so+am+I!;Believe+in+your+inner+sparkle.;Code+with+love,+dreams,+and+glow+%E2%9C%A8"/>
+
+> 🌷 *"May your code be clean, your coffee strong, and your dreams even stronger."* 🌷
+
 </div>
----
-
-<div style="background-color:#ffeef8;padding:20px;border-radius:10px;color:#5a5a5a">License</div>
-
-MIT License
-
-Copyright (c) 2025 Lina Yassire
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-
 
 ---
+
+## 🌸 Who is Pxxelina?
+
+Hi! I’m **Ines** — aka **Pixolina** online.  
+🧁 19 y.o. student in **MIP** (*Maths, Physics & Computer Science*)  
+✨ I adore learning, solving bugs, and romanticizing logic.
+
+---
+
+## 💖 Aesthetic Soul
+
+🩰 Ballet lover (in code & soul)  
+🎹 Pianist & singer at heart  
+🌸 Obsessed with sparkly things, soft tech & girly vibes  
+🐈 Cat whisperer & cozy coffee-coder  
+
+---
+
+## 💡 Mind & Dreams
+
+🧠 Passionate about **algorithms** & design  
+📚 In love with **philosophy** & poetic coding  
+✍️ Writing my code like literature — one function at a time  
+
+---
+
+## 🛠️ My Toolbox
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-ffc0cb?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-ffc0cb?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffc0cb?style=for-the-badge&logo=javascript&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-ffc0cb?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## ✨ Projects I’m Crafting
+
+- 🎹 **Virtual Piano** – A Python-based piano full of lovely notes  
+- 🐾 **Virtual Cat** – A soft-coded desktop kitty to keep you company  
+- ⚙️ **Pxxelina Boots** – A magical system still under stardust & dreams  
+
+---
+
+## 📚 Philosophy & Literature
+
+I live between **code and metaphors**.  
+I love reading **Kafka**, **Camus**, and **Dwarf Whiskey** stories.  
+They make me think like a dev, feel like an artist.
+
+---
+
+## 📊 Achievements, Stats & Languages
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pxxelina&show_icons=true&theme=tokyonight&title_color=ffc0cb&icon_color=ffc0cb)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxxelina&layout=compact&theme=tokyonight&title_color=ffc0cb)
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linayassire00@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lina_yassire)
+[![GitHub](https://img.shields.io/badge/-GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxxelina)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *Shine bright like code in the dark.* ✨
+
+</div>
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** – feel free to use, share, and build with love!  
+See the [LICENSE](./LICENSE) file for more info.
+
+---
+
+
+
+
 
