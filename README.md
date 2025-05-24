@@ -9,7 +9,7 @@
 
 ---
 
-##✨ About Me
+## ✨About Me
 
 Hey there! I'm *Pxxelina*, a passionate developer who believes in the magic of code, the beauty of design, and the power of learning.
 
