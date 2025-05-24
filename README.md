@@ -97,8 +97,7 @@ I’m always curious, always building, and always growing.
  ---
 ## 🏆 GitHub Trophies
 
-/></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pxxelina)](https://github.com/pxxelina/github-profile-trophy)
 
 ## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxxelina&show_icons=true&locale=en&layout=compact" alt="pxxelina" /></p>
