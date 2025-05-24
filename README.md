@@ -100,24 +100,18 @@ I’m always curious, always building, and always growing.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxxelina&" alt="pxxelina" /></p>
 
 
-<h3 align="left">✉ Contact Me</h3>
-<p align="left">
-  <a href="mailto:linayassire00@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<h2 align="center">Contact Me</h2>
+<p align="center">
+  <a href="mailto:linayassire00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-linayassire00@gmail.com-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  <a href="https://github.com/PixlyLina" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/pxxelina" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-pxxelina-FFB6C1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://www.instagram.com/linayassire00" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@linayassire00-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p> 
+</p>
 
 ---
 
