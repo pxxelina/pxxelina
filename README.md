@@ -115,9 +115,10 @@ I’m always curious, always building, and always growing.
   <a href="https://github.com/pxxelina" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-pxxelina-FFB6C1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/linayassire00" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@lina_yassire-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="https://instagram.com/lina_yassire" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-lina_yassire-ffb6c1?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+  
 </p>
 
 ---
