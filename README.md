@@ -6,7 +6,10 @@
   <p align="center">
   <img src="https://raw.githubusercontent.com/Pxxelina/Pxxelina/main/pixquote.jpg" alt="Motivational Code" width="400"/>
 </p>
-## ✨ About Me
+
+---
+
+##✨ About Me
 
 Hey there! I'm *Pxxelina*, a passionate developer who believes in the magic of code, the beauty of design, and the power of learning.
 
