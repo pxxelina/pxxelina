@@ -129,10 +129,10 @@ I’m always curious, always building, and always growing.
 
 ---
 <!-- snake -->
-<p align="center">
+<div align="center">
 
 ![snake gif](https://github.com/pxxelina/pxxelina/blob/output/github-snake-dark.svg)
-</p> 
+</div> 
 
 
 © 2025 Lina Yassire — MIT License  
