@@ -129,6 +129,11 @@ I’m always curious, always building, and always growing.
 
 ---
 
+![snake gif](https://github.com/pxxelina/pxxelina/blob/output/github-snake-dark.svg)
+
+
+
+
 © 2025 Lina Yassire — MIT License  
 Feel free to use, copy, and modify this project for any purpose.  
 No warranties. Use at your own sparkly risk!
