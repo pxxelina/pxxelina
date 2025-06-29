@@ -132,7 +132,6 @@ I’m always curious, always building, and always growing.
 <p align="center">
 
 ![snake gif](https://github.com/pxxelina/pxxelina/blob/output/github-snake-dark.svg)
-
 </p> 
 
 
