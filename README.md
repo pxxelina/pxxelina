@@ -1,11 +1,11 @@
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F4C2C2&center=true&width=435&lines=Welcome+to+Pxxelina's+World!;You're+magical,+and+so+I+am.;Dream+Big,+Code+Brighter!" alt="Typing SVG" />
-</p>
+</div>
 <h1>Hi, I'm <span style="color:#FFC0CB;">Lina Yassire</span></h1>
   <p><strong>Magical Developer | Cat Lover | Literature & Music Enthusiast</strong></p>
-  <p align="center">
+  <div align="center">
   <img src="https://raw.githubusercontent.com/Pxxelina/Pxxelina/main/pixquote.jpg" alt="Motivational Code" width="400"/>
-</p>
+</div>
 
 ---
 
@@ -27,7 +27,7 @@ I’m always curious, always building, and always growing.
 
 <!-- Programming Languages -->
 <h3 align="left">Programming Languages:</h3>
-<p align="left">
+<div align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -49,12 +49,12 @@ I’m always curious, always building, and always growing.
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
-</p>
+</div>
 
 
 <!-- Web Development -->
 <h3 align="left">Web Development:</h3>
-<p align="left">
+<div align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -64,11 +64,11 @@ I’m always curious, always building, and always growing.
   <a href="https://d3js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 <!-- Mobile Development -->
 <h3 align="left">Mobile Development:</h3>
-<p align="left">
+<div align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -78,11 +78,11 @@ I’m always curious, always building, and always growing.
   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 <!-- Tools and Platforms -->
 <h3 align="left">Tools and Platforms:</h3>
-<p align="left">
+<div align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -92,7 +92,7 @@ I’m always curious, always building, and always growing.
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
   </a>
-</p>
+</div>
 
  ---
 ## 🏆 GitHub Trophies
@@ -100,15 +100,15 @@ I’m always curious, always building, and always growing.
 [![trophy](https://github-profile-trophy.vercel.app/?username=pxxelina)](https://github.com/pxxelina/github-profile-trophy)
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxxelina&show_icons=true&locale=en&layout=compact" alt="pxxelina" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxxelina&show_icons=true&locale=en&layout=compact" alt="pxxelina" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxxelina&show_icons=true&locale=en" alt="pxxelina" /></p>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxxelina&show_icons=true&locale=en" alt="pxxelina" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxxelina&" alt="pxxelina" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxxelina&" alt="pxxelina" /></p>
 
 
 <h2 align="center">Contact Me</h2>
-<p align="center">
+<div align="center">
   <a href="mailto:linayassire00@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-linayassire00@gmail.com-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -119,13 +119,13 @@ I’m always curious, always building, and always growing.
   <img src="https://img.shields.io/badge/Instagram-lina_yassire-ffb6c1?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
   
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4A9C9&center=true&vCenter=true&width=440&lines=Thanks+for+visiting!;You're+amazing!;See+you+soon+%F0%9F%92%A1" alt="Typing SVG" />
-</p> 
+</div> 
 
 ---
 <!-- snake -->
