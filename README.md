@@ -9,7 +9,7 @@
 </div>
 
 <!-- INTRO -->
-<h1 align="center">Hi, I'm <span style="color:#FFC0CB;">Lina Yassire</span> ✨</h1>
+<h1 align="center">Hi, I'm <span style="color:#FFC0CB;">Pxxelina</span> ✨</h1>
 <p align="center"><strong>Magical Developer • Cat Lover • Literature & Music Enthusiast</strong></p>
 
 <!-- QUOTE IMAGE -->
