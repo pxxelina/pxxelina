@@ -23,10 +23,6 @@
 
 Hey there! I'm **Pxxelina**, a 19-year-old MIP student (Math, Computer Science & Physics) who adores coding with style, curiosity, and creativity.
 
-- 🎓 **Program**: MIP – Math, Computer Science & Physics  
-- 🗣️ **Languages**: English, French, Arabic, German, Russian, learning Chinese  
-- 💖 **Passions**: Virtual projects, piano, design, jewelry making, Kafka & Camus ... 
-- 🐾 **Magic Belief**: You’re magical — and so am I ✨  
 
 ---
 
@@ -115,12 +111,7 @@ Hey there! I'm **Pxxelina**, a 19-year-old MIP student (Math, Computer Science &
     <img src="https://img.shields.io/badge/Gmail-linayassire00@gmail.com-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/pxxelina" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-pxxelina-FFB6C1?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/lina_yassire" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-lina_yassire-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
+    
 
 ---
 
