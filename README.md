@@ -82,11 +82,6 @@ I create aesthetic projects, love music 🎹, design, and cosmic vibes 🌙.
 
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4A9C9&center=true&vCenter=true&width=440&lines=Thanks+for+visiting!;You're+amazing!;See+you+soon+%F0%9F%92%A1" alt="Typing SVG" />
-</div> 
-
-
 <!-- snake -->
 <div align="center">
 
@@ -95,3 +90,4 @@ I create aesthetic projects, love music 🎹, design, and cosmic vibes 🌙.
 
 
 © 2025 Lina Yassire 
+
