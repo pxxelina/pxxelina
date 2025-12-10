@@ -94,6 +94,4 @@ I create aesthetic projects, love music 🎹, design, and cosmic vibes 🌙.
 </div> 
 
 
-© 2025 Lina Yassire — MIT License  
-Feel free to use, copy, and modify this project for any purpose.  
-No warranties. Use at your own sparkly risk!
+© 2025 Lina Yassire 
