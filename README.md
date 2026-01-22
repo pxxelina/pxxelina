@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://github.com/pxxelina/pxxelina/raw/main/3F2F3232-FB18-47E8-9364-93FE047BB3CE.gif" width="420" />
+  <img src="https://github.com/pxxelina/pxxelina/raw/main/9F9C8A86-E586-4FAD-BC87-3FE50A5F7D58.gifwidth="420" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&color=6CB4EE&center=true&width=600&lines=Hi,+I'm+Pxxelina!;Dream.+Build.+Shine." />
 </div>
 
-## 🌌 About Me
+## 🌱About Me
 I'm **Pxxelina**, a 19-year-old MIP student (Math, Computer Science & Physics).  
 I create aesthetic projects, love music 🎹, design, and cosmic vibes 🌙.
 
-## 💫 Programming Languages
+## 🍀 Programming Languages
 <div align="center">
   <table cellpadding="6">
     <tr>
@@ -30,7 +30,7 @@ I create aesthetic projects, love music 🎹, design, and cosmic vibes 🌙.
   </table>
 </div>
 
-## 🌐 Web & Frameworks
+## 🍃Web & Frameworks
 <div align="center">
   <table cellpadding="6">
     <tr>
@@ -50,7 +50,7 @@ I create aesthetic projects, love music 🎹, design, and cosmic vibes 🌙.
   </table>
 </div>
 
-## ⚙️ Tools & Platforms
+## 🪻 Tools & Platforms
 <div align="center">
   <table cellpadding="6">
     <tr>
