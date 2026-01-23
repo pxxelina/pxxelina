@@ -13,7 +13,7 @@ I create aesthetic projects, love music 🎹, design, and cosmic vibes 🌙.
 ## 🍀 Programming Languages & Tools
 <div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,html,css,bootstrap,tailwind,js,react,vite,cpp,vercel,github,figma,blender,p5js" />
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,bootstrap,tailwind,js,react,vite,cpp,vercel,github,figma,blender,p5js" alt="Tech Stack Icons">
   </p>
 </div>
 
@@ -34,11 +34,11 @@ I create aesthetic projects, love music 🎹, design, and cosmic vibes 🌙.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&color=FF3B3B&center=true&width=600&lines=Thanks+for+visiting!;You're+amazing!;See+you+soon!" />
 </div>
 
-© 2025 Lina Yassire
+
 
 ![snake gif](https://github.com/pxxelina/pxxelina/blob/output/github-snake-dark.svg)
 </div> 
 
 
-© 2025 Lina Yassire 
+© 2026 Lina Yassire 
 
