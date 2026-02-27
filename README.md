@@ -5,12 +5,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&color=FF3B3B&center=true&width=600&lines=Hi,+I'm+Pxxelina!;Dream.+Build.+Shine." />
 
-
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=pxxelina&style=for-the-badge&color=red)](https://github.com/yssrexe)
-[![GitHub followers](https://img.shields.io/github/followers/pxxelina?style=for-the-badge&color=red)](https://github.com/yssrexe?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/pxxelina?style=for-the-badge&color=white)](https://github.com/yssrexe?tab=repositories)
-  
 </div>
 
 
