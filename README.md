@@ -39,7 +39,7 @@ I build things that are as beautiful as they are functional. I love music 🌿, 
 
 *In the midst of winter,*
 *I found there was, within me, an invincible summer.*
-*And that makes me happy *
+*And that makes me happy*
 *for it says that no matter how hard the world pushes against me,*
 *within me, there's something stronger, something better, pushing right back.*
 
