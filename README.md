@@ -10,7 +10,7 @@
 
 ## 🌿 About Me
 
-I'm **Pxxelina** — 19, a MIP student (Math, Computer Science & Physics).
+I'm **Pxxelina**  19 yo, a FLI student (Math, Computer Science ).
 I build things that are as beautiful as they are functional. I love music 🌿, design, and anything that lives between logic and magic 🍀
 
 
