@@ -13,7 +13,6 @@
 I'm **Pxxelina** — 19, a MIP student (Math, Computer Science & Physics).
 I build things that are as beautiful as they are functional. I love music 🌿, design, and anything that lives between logic and magic 🍀
 
-> *"I am not like the rest — I am a rare kind of constellation, still becoming."*
 
 <br/>
 
@@ -22,7 +21,7 @@ I build things that are as beautiful as they are functional. I love music 🌿, 
 🌿 Music is my second language  
 🍀 I see beauty in every pixel  
 🌱 I live somewhere between equations and aesthetics  
-✨ I'm a unique creature — and I embrace that fully
+✨ I'm a unique creature  and I embrace that fully
 
 <br/>
 
@@ -40,7 +39,7 @@ I build things that are as beautiful as they are functional. I love music 🌿, 
 
 *In the midst of winter,*
 *I found there was, within me, an invincible summer.*
-*And that makes me happy —*
+*And that makes me happy *
 *for it says that no matter how hard the world pushes against me,*
 *within me, there's something stronger, something better, pushing right back.*
 
