@@ -85,7 +85,7 @@ I build things that are as beautiful as they are functional. I love music 🌿, 
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=pxxelina&color=FF3B3B&style=flat-square)  
+  
   
   <sub>© 2026 Lina Yassire</sub>
 </div>
