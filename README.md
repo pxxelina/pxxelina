@@ -63,10 +63,6 @@ I build things that are as beautiful as they are functional. I love music 🌿, 
   <a href="mailto:pxxelina@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-pxxelina@gmail.com-FF3B3B?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://pin.it/1vgHdGukC" target="_blank">
-   <img src="https://img.shields.io/badge/Pinterest-@Lina-FF3B3B?style=flat-square&logo=pinterest&logoColor=white" />
-</a>
 </div>
 
 <br/>
