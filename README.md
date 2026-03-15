@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/pxxelina/pxxelina/raw/main/9F9C8A86-E586-4FAD-BC87-3FE50A5F7D58.gif" width="420">
+  <img src="https://github.com/pxxelina/pxxelina/raw/main/IMG_1034.jpeg" width="420">
 </div>
 
 
