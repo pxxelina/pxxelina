@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/pxxelina/pxxelina/raw/main/IMG_1035.jpeg" width="420">
+  <img src="https://github.com/pxxelina/pxxelina/raw/main/Butterfly Sticker by Clean Beauty Collective - Find & Share on GIPHY.gif" width="420">
 </div>
 
 
